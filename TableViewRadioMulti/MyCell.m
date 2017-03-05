@@ -2,7 +2,7 @@
 //  MyCell.m
 //  TableViewRadioMulti
 //
-//  Created by TZ on 2017/2/15.
+//  Created by FJQ on 2017/2/15.
 //  Copyright © 2017年 TZ. All rights reserved.
 //
 
